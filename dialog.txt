@@ -1,1 +1,17 @@
-OFF|✅Notice|<center>অনুগ্রহ করে আপডেট করুন।</center>|https://www.youtube.com|https://google.com
+ON|✅Notice|<center>প্রিয় ইমু ব্যবহারকারী,
+
+আমি ইঞ্জিনিয়ার ইকরামুল।
+
+অ্যাপের মধ্যে নতুন আপডেট পাওয়ার  এড করা হয়েছে অনুগ্রহ করে অ্যাপটি আপডেট করুন।
+
+অ্যাপটি আপডেট করতে Contact বাটনে ক্লিক করে যোগাযোগ করুন ধন্যবাদ।
+
+Dear imo User,
+
+I am Engineer Ekramul.
+
+A new version of the app is now available with the latest updates and improvements. Please update your app to continue using all features smoothly.
+
+To update the app, click the Contact button to reach us.
+
+Thank you for your cooperation.</center>|https://www.Ekramul.com|https://gems.ekramul.com
